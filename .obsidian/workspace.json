@@ -4,31 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a15782e50546a654",
+        "id": "b181c7475ae5a6c9",
         "type": "tabs",
         "children": [
           {
-            "id": "acb8e3473a55a725",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hazi/matek/practice.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "practice"
-            }
-          }
-        ]
-      },
-      {
-        "id": "79eadb0e609f4696",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a4fbdbbcac00efcc",
+            "id": "b0997478c4214ffe",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -129,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hazi/matek/practice.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from practice"
+              "title": "Outgoing links"
             }
           },
           {
@@ -166,30 +145,63 @@
               "icon": "lucide-list",
               "title": "Outline of practice"
             }
+          },
+          {
+            "id": "91ba627ed6566249",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "obsidian-git:Open Git source control": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "acb8e3473a55a725",
+  "active": "b0997478c4214ffe",
   "lastOpenFiles": [
+    "biosz/Etológia/1. Öröklött viselkedési formák.md",
+    "biosz/Etológia/0. Bevezetés.md",
+    "biosz/Etológia/2. Tanult viselkedési formák.md",
+    "biosz/Etológia/1. Viselkedési formák.md",
+    "().md",
+    "matek/hazi/2100.md",
+    "1..md",
+    "biosz/Etológia",
+    "biosz",
+    "game idea.md",
+    "Excalidraw/game idea 2025-05-18 11.40.22.excalidraw.md",
+    "Excalidraw/game intro.excalidraw",
+    "Excalidraw/game intro.excalidraw.crswap",
+    "Excalidraw",
+    "matek/hazi/1124.md",
+    "matek/hazi/2098.md",
+    "matek/hazi/1115.md",
+    "matek/hazi/2094.md",
+    "matek/hazi/2093.md",
+    "matek/hazi/2092.md",
+    "matek/hazi/practice.canvas",
+    "hazi/matek/practice - 25.05.11.md",
     "Welcome.md",
-    "hazi/matek/practice.md",
     "matek.md",
-    "hazi/matek",
-    "hazi"
+    "matek",
+    "matek/hazi"
   ]
 }
