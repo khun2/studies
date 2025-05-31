@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c15eaa4b8b57bdff",
+        "id": "2d29b649dd808644",
         "type": "tabs",
         "children": [
           {
-            "id": "a744c4193c646438",
+            "id": "5c4d49eb76f0bfa9",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "matek/hazi/1124.md",
-                "bFile": "matek/hazi/1124.md",
-                "aRef": ""
+                "file": "biosz/Etológia/2. Tanult viselkedési formák.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 1124"
+              "icon": "lucide-file",
+              "title": "2. Tanult viselkedési formák"
             }
           }
         ]
@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "biosz/Etológia/2. Tanult viselkedési formák.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 2. Tanult viselkedési formák"
             }
           },
           {
@@ -179,12 +180,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a744c4193c646438",
+  "active": "5c4d49eb76f0bfa9",
   "lastOpenFiles": [
-    "Excalidraw/game idea 2025-05-18 11.40.22.excalidraw.md",
-    "biosz/Etológia/0. Bevezetés.md",
     "biosz/Etológia/1. Öröklött viselkedési formák.md",
     "biosz/Etológia/2. Tanult viselkedési formák.md",
+    "biosz/Etológia/0. Bevezetés.md",
+    "Excalidraw/game idea 2025-05-18 11.40.22.excalidraw.md",
     "biosz/Etológia/1. Viselkedési formák.md",
     "().md",
     "matek/hazi/2100.md",
