@@ -1,0 +1,42 @@
+Az antik görög költészet mellet a latin nyelvű irodalom hozott létre kimagasló, világirodalmi jelentőségű alkotásokat az ókori Európában
+A latin szerzők a görög mestereket tekintették példaképüknek az ő műveik mintájára írták meg saját szövegeiket
+
+# Írók
+- ## Catullus
+	- kr. e. 84-54 körül
+	- ún. új költők csoportjának a tagja volt - személyes hangú lírai alkotásokat kedvelték
+	- verseikkel nem tanítani akartak, inkább személyes érzelmeket kifejezésre juttatni
+	- Catullus nevéhez fűződik az első tudatosan szerkesztett verseskötet
+	- a szerelme és múzsája, Lesbia
+- ## Publus Ovidius Naso
+	- kre 43-17
+	- már életében is népszerű volt
+	- szerelmi/eréotikus témák
+	- ### Hősök levelei
+		- 15 levél
+		- mitológiából és történelemből karaktereknek akik szerelmi bánatai vannak
+			- Pénelopé
+			- Dido
+			- Szapphó
+		- A nő szemszögéből van írva
+	- ### Átváltozások (metamorphosis)
+		- eposz
+		- hexameter sorok
+		- 15 könyv
+		- minden mű valami átváltozást tartalmaz
+		- a carmeu perpetuum "folyamatos ének"
+			- elejük és végük a történeteknek összefügg
+		- mitológiai történetek füzére
+		- visszatérő motívumok a művészet és a szerelem
+		- #### Pygmalion
+			- 10. könyv 5. történet
+			- **a története
+				- pygmailon ciprus királya
+				- készít egy gyönyörű szobrot
+				- beleszeret a szoborba (lol)
+				- Venushoz imádkozik pygmalion
+				- a szobor életre kel
+				- LEX????
+				- child
+			- nem egy utánzás (its just porn)
+			- annak az analógiája hogy egy író ír egy jó művet
