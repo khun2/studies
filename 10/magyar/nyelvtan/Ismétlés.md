@@ -1,0 +1,48 @@
+
+![[Ismétés gondolattérkép.canvas]]
+### 1. feladat: Délután meg kell tanulnom a holnapi órára feladott leckét
+- Délután: határozószó ✅
+- meg: igekötő ✅
+- _kell: segédige -> kell
+- _Tanulnom: ige - főnévi igenév
+- a: névelő ✅
+- _holnapi: határozószó -> melléknév
+- órára: főnév ✅
+- _feladott: melléknévi igenév
+- leckét: főnév ✅
+
+### 2. feladat
+szótő: T
+képző: K
+jel: J
+rag: R
+
+borotvá|l|koz|ik
+T       K  K  J
+
+műt|s|d
+T   J|R
+
+gyöngy|öd|et
+T      J  R
+
+túl|nép|es|ed|és|é|t
+T   T   K  K  K  J R
+
+olvas|s|ad
+T     J R
+
+e|het|ő
+T K   R
+
+enged|elmes|ked|ik
+T     K     K   J
+
+határ|oz|atlan
+T     K  K
+
+ítél|ő|képes|ség
+T    K T     R
+
+puszt|ul|ás|a
+T     K  K  a
