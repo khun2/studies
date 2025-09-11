@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "38fc19d4f26076c6",
+        "id": "d11715c2a5b8ef86",
         "type": "tabs",
         "children": [
           {
-            "id": "5da66d8e3fc17a6e",
+            "id": "a5a3b78adedf9598",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -142,16 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "hazi/matek/practice.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of practice"
             }
           },
           {
-            "id": "44acf7e5cd478c21",
+            "id": "91ba627ed6566249",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -180,44 +181,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5da66d8e3fc17a6e",
+  "active": "a5a3b78adedf9598",
   "lastOpenFiles": [
+    "dailies/2025-09-11.md",
+    "dailies/2025-09-10.md",
+    "dailies/2025-09-09.md",
     "10/töri/A középkori egyház.md",
     "10/töri/A frank királyság.md",
-    "dailies/2025-09-10.md",
+    "10/töri",
+    "algo/ad hoc.md",
     "templates/daily.md",
     "templates",
-    "dailies/2025-09-09.md",
-    "dailies",
-    "algo/pres.md",
-    "9/föci/Népesség és település földrajz.md",
-    "9/föci",
-    "algo/Plan.md",
-    "algo/dp.md",
-    "algo/feladat.md",
-    "algo/schlangen.md",
     "algo/2point.md",
-    "algo/mohó.md",
-    "algo/ad hoc.md",
-    "algo/háziverseny.md",
-    "algo/binker.md",
+    "dailies",
     "algo/egyéb játék.md",
+    "algo/uiua.md",
+    "algo/pres.md",
+    "algo/feladat.md",
+    "10/magyar/Basics.md",
+    "10/föci/Népesség és település földrajz.md",
+    "10/magyar",
+    "10/föci",
+    "10",
+    "algo/Plan.md",
+    "algo/mohó.md",
+    "algo/schlangen.md",
+    "algo/háziverseny.md",
+    "algo/dp.md",
+    "algo/binker.md",
     "9/biosz/Etológia/2. Tanult viselkedési formák.md",
     "9/biosz/Etológia/1. Öröklött viselkedési formák.md",
     "9/biosz/Etológia/0. Bevezetés.md",
+    "9/töri/A frank királyság.md",
     "9/matek/Események, műveleti tulajdonságok.md",
     "9/magyar/Ókori római irodalom.md",
-    "9/magyar/Ókori görög líra.md",
-    "9/magyar/műnemek és műfajok.md",
-    "9/magyar/Thébai_mondakor.md",
-    "9/magyar/Szophoklész Antigoné.md",
     "9/biosz/Etológia",
     "9/töri",
     "9/matek",
     "9/magyar",
-    "9/biosz",
-    "9",
-    "algo",
     "matek/hazi/practice.canvas"
   ]
 }
