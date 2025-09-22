@@ -1,41 +1,56 @@
 {
   "main": {
-    "id": "68e60e90a371d5ed",
+    "id": "bf8bd6bae4bf7773",
     "type": "split",
     "children": [
       {
-        "id": "42d7505c4f4ab429",
+        "id": "e4f44dffd72d21de",
         "type": "tabs",
         "children": [
           {
-            "id": "f831503301668783",
+            "id": "66cdd8892a0622bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dailies/2025-09-21.md",
+                "file": "10/magyar/Irodalom/2. A Barokk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-21"
+              "title": "2. A Barokk"
+            }
+          },
+          {
+            "id": "7b693e0efe3afeb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dailies/2025-09-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-22"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "eb9775912d6640c0",
+    "id": "731aaba26c97c83c",
     "type": "split",
     "children": [
       {
-        "id": "ccfb5fd76891565e",
+        "id": "b9849a426b30cd50",
         "type": "tabs",
         "children": [
           {
-            "id": "8f1ca74fda0ffd91",
+            "id": "ffbc0b9b6a4bc9a2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +63,7 @@
             }
           },
           {
-            "id": "8f080d015b76dd3b",
+            "id": "24dbe77ea83969e5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +80,7 @@
             }
           },
           {
-            "id": "9c6e7111d6ed15f6",
+            "id": "ef45e1ac4a97fa8c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "2c8ed13e34d00a04",
+    "id": "b1cea58d52a4dae7",
     "type": "split",
     "children": [
       {
-        "id": "b7a2f15687d5b4bd",
+        "id": "e1046e9ed6414003",
         "type": "tabs",
         "children": [
           {
-            "id": "5551cbf64cbc2c9d",
+            "id": "44116c988e876f5c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hazi/matek/practice.md",
+                "file": "10/magyar/Irodalom/2. A Barokk.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +119,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for practice"
+              "title": "Backlinks for 2. A Barokk"
             }
           },
           {
-            "id": "2159b4adbecc2b79",
+            "id": "f163bd8f314b256c",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "biosz/Etológia/2. Tanult viselkedési formák.md",
-                "linksCollapsed": true,
+                "file": "10/magyar/Irodalom/2. A Barokk.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2. Tanult viselkedési formák"
+              "title": "Outgoing links from 2. A Barokk"
             }
           },
           {
-            "id": "853e04532f1a60ac",
+            "id": "467f926dead0b9fc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,22 +152,22 @@
             }
           },
           {
-            "id": "051eecfd6041bfff",
+            "id": "6c50127d2d88bd6b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "hazi/matek/practice.md",
+                "file": "10/magyar/Irodalom/2. A Barokk.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of practice"
+              "title": "Outline of 2. A Barokk"
             }
           },
           {
-            "id": "91ba627ed6566249",
+            "id": "8c0acd2ceef78b85",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -166,60 +181,26 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "f831503301668783",
+  "active": "7b693e0efe3afeb6",
   "lastOpenFiles": [
-    "dailies/2025-09-17.md",
-    "10/Kémia/Életerő Elmélet.md",
-    "10/Kémia/Életerő Elmélet.excalidraw.md",
-    "dailies/2025-09-21.md",
-    "dailies/2025-09-10.md",
-    "Untitled.base",
-    "Untitled 1.base",
-    "10/töri/2. A középkori egyház.md",
-    "10/töri/1. A frank királyság.md",
-    "Egyházi lovagrendek.md",
-    "10/töri/3. Egyház temp.md",
-    "10/magyar/nyelvtan/1. Ismétlés.md",
-    "Történelem/Középkor/A Középkori Egyház.md",
-    "10/magyar/nyelvtan/1. Ismétés gondolattérkép.canvas",
-    "10/föci/1. Népesség és település földrajz.md",
-    "10/föci/2. Népesedési átmenet szakaszai.md",
-    "10/föci/2. Népesedési átmenet szakaszai.excalidraw.md",
-    "10/magyar/Basics.md",
-    "home/khun/repos/studies/10/magyar/nyelvtan/Ismétés.md",
-    "Földrajz/Népesség -és településföldrajz/1. Népesség Földrajz.md",
-    "dailies/2025-09-11.md",
-    "dailies/2025-09-09.md",
-    "templates/daily.md",
-    "algo/schlangen.md",
-    "home/khun/repos/studies/10/magyar/nyelvtan",
-    "home/khun/repos/studies/10/magyar",
-    "home/khun/repos/studies/10",
-    "home/khun/repos/studies",
-    "home/khun/repos",
-    "home/khun",
-    "home",
-    "10/magyar/nyelvtan",
-    "algo/ad hoc.md",
-    "algo/2point.md",
-    "algo/egyéb játék.md",
-    "algo/uiua.md",
-    "algo/pres.md",
-    "matek/hazi/practice.canvas"
+    "10/magyar/Irodalom/2. A Barokk.md",
+    "10/magyar/Irodalom/3. Pázmány Péter.md",
+    "10/magyar/Irodalom/1. Ismétlés.md",
+    "dailies/2025-09-22.md"
   ]
 }
