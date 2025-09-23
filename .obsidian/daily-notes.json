@@ -1,5 +1,5 @@
 {
   "folder": "dailies",
   "autorun": true,
-  "template": ""
+  "template": "dailies/template"
 }
