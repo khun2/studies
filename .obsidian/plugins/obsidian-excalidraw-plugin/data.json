@@ -111,7 +111,14 @@
   "mdFontColor": "Black",
   "mdBorderColor": "Black",
   "mdCSS": "",
-  "scriptEngineSettings": {},
+  "scriptEngineSettings": {
+    "Downloaded/Normalize Selected Arrows": {
+      "Gap": {
+        "value": 8,
+        "description": "The value of the gap between the connection line and the element, which must be greater than 0. If you want the connector to be next to the element, set it to 1."
+      }
+    }
+  },
   "defaultTrayMode": true,
   "previousRelease": "2.11.1",
   "showReleaseNotes": true,
