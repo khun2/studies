@@ -1,0 +1,38 @@
+- __Egyszerű__ -> egy tagmondat, egy állítás
+- __Összetett__ -> több tagmondat
+## Egyszerű
+- **tagolt**
+	- _minimális_ -> állítmány + kötelező vonzatok (Peti _a csomagot_ elküldte)(hiányos lenne _a csomagot_ nélkül)
+	- _bővített_ -> szabad bővítmény is (Peti _reggel_ elküldte _a nehéz_ csomagot _Ferinek_)
+- **tagolatlan**
+	- __nincs__ benne állítmány és nem is egészíthető ki azzal
+	- _szerkesztett_ -> Azt is kiskésit neki!
+	- _szerkesztetlen_ -> Ó!
+## Összetett
+- __szervetlen
+	- A tagmondatok között _van_ tagolatlan
+- __szerves
+	- A tagmondatok között _nincs_ tagolatlan
+### Alárendelő összetett mondat
+- tagmondatai nem egyenrangúak
+- __sajátos jelentéstartalom__ -> 
+	- _hasonlító_ (mint, akár)
+	- _feltételes_ (ha)
+	- _következményes_ (hogy, úgyhogy)
+	- _megengedő_ (habár, noha)
+#### Típusai
+- _alanyi_ -> ki sokat markol, keveset fog
+- _állítmányi_ -> olyan a ruha, amilyet akartál
+- _tárgyi_ -> Azt hiszem elég ennyi
+- _határozói_ -> mint egy kecske, úgy mekeg
+- _jelzői_ -> Annyi almát kapsz, amennyit kérsz
+### Mellérendelő összetett mondat
+- tagmondatai egyenrangúak, tartalmi-logikai kapcsolat van közöttük
+#### Típusai
+- _kapcsolatos_ -> Jött valaki és segített a-b
+- _ellentétes_ -> Jött valaki, de nem segített a-><-b
+- _választó_ -> Vagy segítesz, vagy nem a~b
+- _következtető_  -> Segítettél, így megmenekültem a->b
+- _magyarázó_ -> Megmenekültem, hisz segítettél a<-b
+### Többszörösen összetett mondat
+- kettőnél több tagmondat
