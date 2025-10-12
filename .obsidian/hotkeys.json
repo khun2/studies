@@ -1,12 +1,4 @@
 {
-  "solve:commit-result-current-line": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Enter"
-    }
-  ],
   "app:toggle-left-sidebar": [
     {
       "modifiers": [
@@ -39,13 +31,31 @@
       "key": "R"
     }
   ],
-  "editor:toggle-checklist-status": [
+  "editor:toggle-checklist-status": [],
+  "editor:toggle-italics": [],
+  "obsidian-tasks-plugin:toggle-done": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:open-link-in-new-leaf": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "obsidian-tasks-plugin:edit-task": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "I"
     }
-  ],
-  "editor:toggle-italics": []
+  ]
 }
