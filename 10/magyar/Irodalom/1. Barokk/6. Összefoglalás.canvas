@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"c048a9f2d15c0260","type":"file","file":"10/magyar/Irodalom/2. A Barokk.md","x":-422,"y":-63,"width":400,"height":400,"color":"1"},
-		{"id":"da174ec2ef3a3223","type":"file","file":"10/magyar/Irodalom/3. Zrínyi Miklós.md","x":-422,"y":480,"width":400,"height":400,"color":"1"},
-		{"id":"ea73bc3288809cf6","type":"file","file":"10/magyar/Irodalom/4. A Rokokó.md","x":120,"y":-63,"width":400,"height":400,"color":"2"},
-		{"id":"e104623df8293c19","type":"file","file":"10/magyar/Irodalom/5. A kuruckor irodalma.md","x":120,"y":480,"width":400,"height":400,"color":"2"},
+		{"id":"c048a9f2d15c0260","type":"file","file":"10/magyar/Irodalom/1. Barokk/2. A Barokk.md","x":-422,"y":-63,"width":400,"height":400,"color":"1"},
+		{"id":"da174ec2ef3a3223","type":"file","file":"10/magyar/Irodalom/1. Barokk/3. Zrínyi Miklós.md","x":-422,"y":480,"width":400,"height":400,"color":"1"},
+		{"id":"ea73bc3288809cf6","type":"file","file":"10/magyar/Irodalom/1. Barokk/4. A Rokokó.md","x":120,"y":-63,"width":400,"height":400,"color":"2"},
+		{"id":"e104623df8293c19","type":"file","file":"10/magyar/Irodalom/1. Barokk/5. A kuruckor irodalma.md","x":120,"y":480,"width":400,"height":400,"color":"2"},
 		{"id":"de034fe89a48c066","type":"text","text":"Összefoglalás","x":-80,"y":-440,"width":250,"height":60},
 		{"id":"0bbe108ef13b1d30","type":"text","text":"Jegyzetek","x":-80,"y":-320,"width":250,"height":60},
 		{"id":"a07e15615aa17bf8","type":"text","text":"Személyek","x":-80,"y":-560,"width":250,"height":60},

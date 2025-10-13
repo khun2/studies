@@ -24,6 +24,7 @@
 | Összeg képlet | Molekula képlet | Konstitúciós képlet | Vonal képlet |
 | ------------- | --------------- | ------------------- | ------------ |
 | $C_{n}H_{2n}$ | $C_{5}H_{10}$   | *Rajz*              | *Rajz*       |
+|               |                 |                     |              |
 ## 2. C-atomok között kötések
 - **Telített szénvegyület**: a C-atomok között *egyszeres* kötések
 - **Telítetlen szénvegyület**: a C-atomok között *többszörös* kötések
